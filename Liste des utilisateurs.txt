@@ -1,0 +1,5 @@
+ADMIN : slim@admin.com    MDP : 20102011
+ADMIN : anas@admin.com    MDP : 20102011
+ADMIN : wassim@admin.com  MDP : 20102011
+Client : Omar@gmail.com   MDP : 20102011
+Client : mahdi@gmail.com MDP :20102011
